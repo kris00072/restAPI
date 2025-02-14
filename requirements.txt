@@ -1,0 +1,6 @@
+Django>=5.1.6
+djangorestframework
+gunicorn
+psycopg2-binary  # If using PostgreSQL
+drf-yasg  # For API documentation (Swagger)
+whitenoise  # For serving static files
